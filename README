@@ -1,0 +1,6 @@
+This directory contains files used when exploring the scaling
+of error between box counting the triangular mesh integration
+of a 2D circle.  The thing to run is run_all.
+
+April 2020.
+
